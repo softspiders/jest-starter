@@ -6,7 +6,7 @@
 
 ## Direct feature descendants
 
-[js-test](https://github.com/softspider/js-test)
+[typescript-test](https://github.com/softspider/typescript-test)
 
 ## Requirements
 
