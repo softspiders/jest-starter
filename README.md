@@ -1,4 +1,4 @@
-# Minimalistic test example in JavaScript in Jest
+Test example in JavaScript in Jest
 
 ## Direct feature ancestors
 
