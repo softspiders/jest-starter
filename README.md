@@ -1,4 +1,4 @@
-# Minimalistic test by Jest example in JavaScript
+Test example in JavaScript in Jest
 
 ## Direct feature ancestors
 
@@ -6,11 +6,11 @@
 
 ## Direct feature descendants
 
-[js-test](https://github.com/softspider/js-test)
+[typescript-test](https://github.com/softspider/typescript-test)
 
 ## Requirements
 
-* [Node.js](https://nodejs.org/en/download/package-manager/)
+[Node.js](https://nodejs.org/en/download/package-manager/)
 
 ## Installation
 
