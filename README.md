@@ -10,7 +10,7 @@
 
 ## Requirements
 
-* [Node.js](https://nodejs.org/en/download/package-manager/)
+[Node.js](https://nodejs.org/en/download/package-manager/)
 
 ## Installation
 
