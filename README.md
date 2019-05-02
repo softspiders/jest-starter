@@ -8,6 +8,12 @@
 
 [typescript-test](https://github.com/softspider/typescript-test)
 
+
+## Direct code ancestors
+
+[javascript](https://github.com/softspider/javascript)
+
+
 ## Requirements
 
 [Node.js](https://nodejs.org/en/download/package-manager/)
