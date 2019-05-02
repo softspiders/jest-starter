@@ -6,12 +6,16 @@
 
 ## Direct feature descendants
 
-[typescript-test](https://github.com/softspider/typescript-test)
-
+* [typescript-test](https://github.com/softspider/typescript-test)
+* [node-testing-in-travis](https://github.com/softspider/node-testing-in-travis)
 
 ## Direct code ancestors
 
 [javascript](https://github.com/softspider/javascript)
+
+## Direct code descendants
+
+* [node-testing-in-travis](https://github.com/softspider/node-testing-in-travis)
 
 
 ## Requirements
