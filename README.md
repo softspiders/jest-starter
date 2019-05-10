@@ -16,6 +16,7 @@
 ## Direct code descendants
 
 * [node-testing-in-travis](https://github.com/softspider/node-testing-in-travis)
+* [puppeteer-jest](https://github.com/softspider/puppeteer-jest)
 
 
 ## Requirements
