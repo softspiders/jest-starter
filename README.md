@@ -1,5 +1,12 @@
 # Test example in JavaScript in Jest
 
+
+## Feature tags
+
+- jest
+- template
+- javascript
+
 ## Direct feature ancestors
 
 [javascript](https://github.com/softspider/javascript)
