@@ -1,3 +1,5 @@
+SOFTSPIDERS
+
 # Test example in JavaScript in Jest
 
 
@@ -7,18 +9,15 @@
 - template
 - javascript
 
-## Direct feature ancestors
+## Direct ancestors
 
-[javascript](https://github.com/softspider/javascript)
+[javascript](https://github.com/softspider/javascript) - also by code
 
-## Direct feature descendants
+## Direct descendants
 
 * [typescript-test](https://github.com/softspider/typescript-test)
-* [node-testing-in-travis](https://github.com/softspider/node-testing-in-travis)
+* [node-testing-in-travis](https://github.com/softspider/node-testing-in-travis) - also by code
 
-## Direct code ancestors
-
-[javascript](https://github.com/softspider/javascript)
 
 ## Direct code descendants
 
