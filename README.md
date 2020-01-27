@@ -11,18 +11,18 @@ SOFTSPIDERS
 
 ## Direct ancestors
 
-[javascript](https://github.com/softspider/javascript) - also by code
+[javascript](https://github.com/softspiders/javascript) - also by code
 
 ## Direct descendants
 
-* [typescript-test](https://github.com/softspider/typescript-test)
-* [node-testing-in-travis](https://github.com/softspider/node-testing-in-travis) - also by code
+* [typescript-test](https://github.com/softspiders/typescript-test)
+* [node-testing-in-travis](https://github.com/softspiders/node-testing-in-travis) - also by code
 
 
 ## Direct code descendants
 
-* [node-testing-in-travis](https://github.com/softspider/node-testing-in-travis)
-* [puppeteer-jest](https://github.com/softspider/puppeteer-jest)
+* [node-testing-in-travis](https://github.com/softspiders/node-testing-in-travis)
+* [puppeteer-jest](https://github.com/softspiders/puppeteer-jest)
 
 
 ## Requirements
