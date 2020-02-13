@@ -1,4 +1,4 @@
-SOFTSPIDERS
+[SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
 # Test example in JavaScript in Jest
 
@@ -6,6 +6,7 @@ SOFTSPIDERS
 ## Feature tags
 
 - jest
+- starter
 - template
 - javascript
 
