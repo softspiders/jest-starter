@@ -2,6 +2,7 @@
 
 # Test example in JavaScript in Jest
 
+---
 
 ## Feature tags
 
@@ -16,19 +17,28 @@
 
 ## Direct descendants
 
-* [typescript-test](https://github.com/softspiders/typescript-test)
-* [node-testing-in-travis](https://github.com/softspiders/node-testing-in-travis) - also by code
-
+- [typescript-test](https://github.com/softspiders/typescript-test)
+- [node-testing-in-travis](https://github.com/softspiders/node-testing-in-travis) - also by code
 
 ## Direct code descendants
 
-* [node-testing-in-travis](https://github.com/softspiders/node-testing-in-travis)
-* [puppeteer-jest](https://github.com/softspiders/puppeteer-jest)
+- [node-testing-in-travis](https://github.com/softspiders/node-testing-in-travis)
+- [puppeteer-jest](https://github.com/softspiders/puppeteer-jest)
+- [jest-mock-fs-starter](https://github.com/softspiders/jest-mock-fs-starter)
 
+---
+
+## Authors
+
+[Alexander Lapygin](https://github.com/AlexanderLapygin)
+
+---
 
 ## Requirements
 
 [Node.js](https://nodejs.org/en/download/package-manager/)
+
+---
 
 ## Installation
 
@@ -36,15 +46,15 @@
 yarn
 ```
 
+---
+
 ## Running test
 
 ```sh
 yarn test
 ```
 
-## Authors
-
-[Alexander Lapygin](https://github.com/AlexanderLapygin)
+---
 
 ### License
 
