@@ -21,6 +21,7 @@
 - [node-testing-in-travis](https://github.com/softspiders/node-testing-in-travis)
 - [puppeteer-jest](https://github.com/softspiders/puppeteer-jest)
 - [typescript-test](https://github.com/softspiders/typescript-test)
+- [cra_rtl_msw_react-query](https://github.com/AlexanderLapygin/cra_rtl_msw_react-query)
 
 ## Direct code descendants
 
